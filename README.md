@@ -1,6 +1,6 @@
 ### Hola, I'm Ayush Soni! 👋
 
-- 🔭 I’m currently working on Yoga Project.
+- 🔭 I’m currently working on web project : Ahana (Basically a yoga project)
 - 🌱 I’m currently learning Front-End Development.
 - 👯 I’m looking to collaborate on Communities , Organizations and LinkedIn.
 - 🤔 I’m looking for help with UI/UX.
