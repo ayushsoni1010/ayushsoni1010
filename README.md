@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Soni</h1>
+<h1 align="center">Hola, I'm Ayush Soni! 👋</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on Web project : **Ahana (Basically a Yoga project))**
@@ -12,6 +12,10 @@
 - 💬 Ask me about **tech related stuff**
 
 - 📫 How to reach me **mr.soni1002001@gmail.com**
+
+- 😄 Pronouns: He/His/Him
+
+- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
