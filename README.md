@@ -13,18 +13,7 @@
 
 - 📫 How to reach me **mr.soni1002001@gmail.com**
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<body>
-    <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
     <p align="left">
         <a href="https://dev.to/ayushsoni1010" target="blank"><img align="center"
                 src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ayushsoni1010"
@@ -71,7 +60,3 @@
             src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsoni1010&show_icons=true&locale=en&layout=compact"
             alt="ayushsoni1010" /></p>
     <p><img src="fz6d.gif" autoplay alt="Dino Game"></p>
-
-</body>
-
-</html>
