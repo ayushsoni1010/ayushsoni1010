@@ -1,7 +1,7 @@
 <h1 align="center">Hola, I'm Ayush Soni! 👋</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on Web project : **Front-end**
+- 🔭 I’m currently working on Web project : **Front-end projects**
 
 - 🌱 I’m currently learning **Front-End Web Development**
 
