@@ -26,7 +26,7 @@
 <a href="https://www.hackerrank.com/ayushsoni1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushsoni1010" height="30" width="40" /></a> 
 <a href="https://github.com/ayushsoni1010" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="ayushsoni1010" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ayushsoni1010" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayushsoni1010" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mr.soni1002001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mr.soni1002001" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/ayushsoni1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ayushsoni1010" height="30" width="40" /></a>
 <a href="https://dev.to/ayushsoni1010" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ayushsoni1010" height="30" width="40" /></a>
 </p>
 
