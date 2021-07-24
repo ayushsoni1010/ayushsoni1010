@@ -48,7 +48,10 @@
 
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsoni1010&layout=compact&theme=radical" alt="ayushsoni1010"></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsoni1010&layout=compact&theme=radical" alt="ayushsoni1010" width="49%" >
+  <img align="right" alt="GIF" src="dino.gif" width="48.5%" height="220" >
+</p>
 
 
 [![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushsoni1010&theme=xcode)](https://git.io/ayushsoni1010)
