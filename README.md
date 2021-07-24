@@ -1,6 +1,8 @@
 <h1 align="center">Hola, I'm Ayush Soni! 👋</h1>
 <h3 align="center">🚀A passionate frontend developer and open-source enthusiast🚀</h3><br>
 
+<img align="right" alt="Coding" width="430" height="330" src="man.gif">
+
 - 🔭 I’m currently working on Web project : **Front-end projects**
 
 - 🌱 I’m currently learning **React**
