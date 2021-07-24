@@ -50,7 +50,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsoni1010&layout=compact&theme=radical" alt="ayushsoni1010" width="49%" >
-  <img align="right" alt="GIF" src="dino.gif" width="48.5%" height="210" >
+  <img align="right" alt="GIF" src="dino.gif" width="48.5%" height="200" >
 </p>
 
 
