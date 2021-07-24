@@ -42,8 +42,13 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsoni1010&show_icons=true&locale=en&layout=compact" alt="ayushsoni1010" align="center"/></p>
 
 
-<p><img alt="My Github stats" align="center" border-radius="40px" width="1000px" height="200px" src="https://github-readme-stats.vercel.app/api?username=ayushsoni1010&count_private=true&show_icons=true&hide_border=false&theme=default" href="https://github.com/ayushsoni1010"/></p>
+<br><br>
 
+[![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushsoni1010&theme=xcode)](https://git.io/ayushsoni1010)
 
-<img alt="My Github stats" align="center" border-radius="40px" width="1000px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsoni1010&layout=compact" alt="saurav-skl" />
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushsoni1010&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsoni1010&theme=tokyonight" />
+</p>
 
