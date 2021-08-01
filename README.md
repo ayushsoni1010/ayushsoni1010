@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I'm Ayush Soni! 👋</h1>
+<h1 align="center">Hola, I'm&nbsp; < Ayush Soni /> 👋</h1>
 <h3 align="center">🚀A passionate frontend developer and open-source enthusiast🚀</h3><br>
 
 <img align="right" alt="Coding" width="400" height="300" src="man.gif">
