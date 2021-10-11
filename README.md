@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" height="300" src="man.gif">
 
-- 🔭 I’m currently working on Web project : **Front-end projects**
+- 🔭 I’m currently working on **Front-end projects**
 
-- 🌱 I’m currently learning **ReactJS and NodeJS**
+- 🌱 I’m currently learning **ReactJS, NodeJS and Kubernetes**
 
 - 👯 I’m looking to collaborate on **UI/UX projects**
 
