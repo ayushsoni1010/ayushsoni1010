@@ -1,39 +1,34 @@
-<h1 align="center">Hola, I'm&nbsp; < Ayush Soni /> 👋</h1>
-<h3 align="center">🚀A passionate frontend developer and open-source enthusiast🚀</h3><br>
+![image](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<h2 align="left">Hey, I'm Ayush Soni <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
+<p>This is Ayush Soni, a sophomore computer science undergraduate, pursuing Bachelor of Technology from <a href="https://www.medicaps.ac.in/">Medi-Caps University</a>, Madhya Pradesh. I am always fascinated by programming and passionate about exploring the latest technology and developing new things. I am a web developer and a open-source enthusiast. I am always up for collaborating within the communities and contributing to open-source projects.</p>
 
-<img align="right" alt="Coding" width="400" height="300" src="man.gif">
-
-- 🔭 I’m currently working on **Front-end projects**
-
-- 🌱 I’m currently learning **ReactJS, VueJS and Kubernetes**
-
-- 👯 I’m looking to collaborate on **UI/UX projects**
-
-- 🤝 I’m looking for help with **Back-End Web Development**
-
-- 💬 Ask me about **tech related stuff**
-
-- 📫 How to reach me **mr.soni1002001@gmail.com**
-
-- 😄 Pronouns: He/His/Him
-
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <div align="left">
   <a href="https://linkedin.com/in/ayushsoni1010/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+	 <a href="https://twitter.com/ayushsoni1010"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://discord.com/channels/@ayushsoni1010#9341"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://twitter.com/ayushsoni1010"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/aayushsoni1010"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
-  <a href="https://ayushsoni1010.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+	  <a href="https://ayushsoni1010.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+ <a href="https://instagram.com/aayushsoni1010"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:mr.soni1002001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  
-  <a href="https://www.hackerrank.com/ayushsoni1010"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a href="https://medium.com/@ayushsoni1010"><img alt="Github" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/ayushsoni1010"><img alt="Codechef" src="https://img.shields.io/badge/Codechef-D14836?style=for-the-badge&logo=codechef&logoColor=white"/></a>	
-  <a href="https://dev.to/ayushsoni1010"><img alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
-  <a href="https://www.hackerearth.com/ayushsoni1010"><img alt="Hackerearth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>
 </div>
+
+<h2 align="left">About me</h2>
+
+```JavaScript
+const ayushsoni = {
+	fulName: "Ayush Soni",
+	pronouns: "He/His/Him",
+	tags: [ "Frontend❤️" , "Open-Source🚀" , "Hackathons⚡" , "Cloud Computing🌩️" ],
+	communities: "Microsoft Learn Student Ambassador👨‍🎓",
+	askMeAbout: [ "Web Development", "Cloud Technology" , "Open Source" ],
+	reachMeOut: ["mr.soni1002001@gmail.com"]
+}
+```
+
+<h2 align="left">Experience</h2>
+<p>● <a href="https://www.economize.cloud/">Economize.cloud (@economize.cloud)</a> - Working on a dashboard application that is based on cloud technology and SaaS product. Implementing and fixing the frontend UI of the application, storybook setup of base wrapper components and building charts using chart.js and vue-chart.js in a wrapper component.</p>
+<p>● <a href="http://thedesignsystems.com/">The DesignSystems (@DesignSystemsOSS)</a> - Working on a CSS library that results in solving frontend crisis called eccentrictouch using ReactJS, SCSS and Working on thedesignsystems community website and UI components from scratch.</p>
+<p>● <a href="https://www.scriptindia.org/">Script Fellowship</a> -  Worked on KaroVerify, CraftBrain, and HACK-OV8 projects which are based on the MERN stack. Got selected as a Fellow in Script Fellowship Program'21 at Script Foundation. I am the top first contributor in Script Fellowship. Helped other fellows to know more about open-source development.</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -69,18 +64,9 @@
 	
 </p>
 
-
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsoni1010&layout=compact&theme=radical" alt="ayushsoni1010" width="49%" >
-  <img align="right" alt="GIF" src="dino.gif" width="48.5%" height="197" >
-</p>
-
-
 [![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushsoni1010&theme=xcode)](https://git.io/ayushsoni1010)
 
 <p align="center">
-	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushsoni1010&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsoni1010&theme=tokyonight" />
 </p>
