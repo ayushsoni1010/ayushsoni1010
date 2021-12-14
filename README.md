@@ -20,7 +20,7 @@ const ayushsoni = {
 	tags: [ "Frontend❤️" , "Open-Source🚀" , "Hackathons⚡" , "Cloud Computing🌩️" ],
 	communities: "Microsoft Learn Student Ambassador👨‍🎓",
 	askMeAbout: [ "Web Development", "Cloud Technology" , "Open Source" , UI-UX ],
-	reachMeOut: ["mr.soni1002001@gmail.com"]
+	reachMeOut: ["ayushsoni1010.work@gmail.com"]
 }
 ```
 
