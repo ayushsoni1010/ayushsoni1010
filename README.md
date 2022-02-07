@@ -19,7 +19,7 @@ const ayushsoni = {
 	pronouns: "He/His/Him",
 	tags: [ "Frontend❤️" , "Open-Source🚀" , "Hackathons⚡" , "Cloud Computing🌩️" , "Mentoring🙌" , "Communities🎯"],
 	communities: "Microsoft Learn Student Ambassador👨‍🎓",
-	askMeAbout: [ "Web Development", "Cloud Technology" , "Open Source" , UI-UX ],
+	askMeAbout: [ "Web Development", "Cloud Technology" , "Open Source" , "UI-UX" ],
 	reachMeOut: ["ayushsoni1010.work@gmail.com"]
 }
 ```
@@ -81,8 +81,6 @@ const ayushsoni = {
 
 <div>
 <h2>Stats📈</h2>	
-	
-[![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushsoni1010&theme=xcode)](https://git.io/ayushsoni1010)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushsoni1010&show_icons=true&theme=tokyonight" />
