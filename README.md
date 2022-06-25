@@ -1,26 +1,28 @@
-![image](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![image](./github-banner.png)
 <h2 align="left">Hey, I'm Ayush Soni <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
-<p>This is Ayush Soni, a sophomore computer science undergraduate, pursuing Bachelor of Technology from <a href="https://www.medicaps.ac.in/">Medi-Caps University</a>, Madhya Pradesh. I am always fascinated by programming and passionate about exploring the latest technology and developing new things. I am a web developer and a open-source enthusiast. I am always up for collaborating within the communities and contributing to open-source projects.</p>
+<p>👨‍🎓This is Ayush Soni, a junior-year computer science undergraduate, pursuing Bachelor of Technology from <a href="https://www.medicaps.ac.in/">Medi-Caps University</a>, Madhya Pradesh. I am always fascinated by programming and passionate about exploring the latest technology and developing new cool things.</p>
+<p>⚡I am a MERN Stack Developer, an Open-Source Enthusiast, and a UX/UI Designer who loves to work with frontend and design things creatively and curiously. I have participated as a participant, and mentor in many open-source contribution programs and hackathons. I am always up for collaborating within the communities and contributing to open-source projects.</p>
 
 <h2 align="left">Connect with me🤝</h2>
 <div align="left">
-  <a href="https://linkedin.com/in/ayushsoni1010/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-	 <a href="https://twitter.com/ayushsoni1010"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-	  <a href="https://ayushsoni1010.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
- <a href="https://instagram.com/aayushsoni1010"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:mr.soni1002001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ayushsoni1010/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/ayushsoni1010" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://ayushsoni1010.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+  <a href="https://linktr.ee/ayushsoni1010" target="_blank"><img alt="Linktree" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="https://instagram.com/aayushsoni1010" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:ayushsoni1010.work@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <h2 align="left">About me👨‍💻</h2>
 
 ```JavaScript
-const ayushsoni = {
-	fulName: "Ayush Soni",
-	pronouns: "He/His/Him",
-	tags: [ "Frontend❤️" , "Open-Source🚀" , "Hackathons⚡" , "Cloud Computing🌩️" , "Mentoring🙌" , "Communities🎯"],
-	communities: "Microsoft Learn Student Ambassador👨‍🎓",
-	askMeAbout: [ "Web Development", "Cloud Technology" , "Open Source" , "UI-UX" ],
-	reachMeOut: ["ayushsoni1010.work@gmail.com"]
+const ayushsoni1010 = {
+  fulName: "Ayush Soni",
+  pronouns: "He/His/Him",
+  tags: [ "Frontend❤️" , "Open-Source🚀" , "Hackathons⚡" , "Cloud Computing🌩️" , "Mentoring🙌" , "Communities🎯"],
+  communities: "Microsoft Learn Student Ambassador👨‍🎓",
+  askMeAbout: [ "Web Development", "Cloud Technology" , "Open Source" , "API's" ],
+  reachMeOut: ["ayushsoni1010.work@gmail.com"]
 }
 ```
 
@@ -48,10 +50,17 @@ const ayushsoni = {
  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
  <img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
  <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
- <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+ <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+ <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
  <img alt="Chart.js" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"/>
- <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
- <img alt="Ant-Design" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
+ <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+ <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</div>
+
+<p>Databases :
+<div>
+ <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+ <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 <p>Tools and Technologies :</p>
@@ -61,9 +70,13 @@ const ayushsoni = {
  <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
  <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
  <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
- <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>		
+ <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+ <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+ <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+ <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
  <img alt="AdobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
- <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>	
+ <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+ <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>	
 </div>
 </p>
 
