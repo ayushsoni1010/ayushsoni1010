@@ -97,7 +97,9 @@ const ayushsoni1010 = {
 <h2>Volunteering and Community work📣</h2>
 <div>
 	<p>● <a href="https://studentambassadors.microsoft.com/#">Microsoft Learn Student Ambassador</a> - Microsoft Learn Student Ambassadors are the on-campus leaders with a passion for making a difference, building vibrant communities, and sharing the latest tech with their peers. Attended various events organized under the MLSA community.
-	Interacting with fellow MLSA's in the community and seeking for the sessions to conduct. In a collaboration with the Coding Society Community, I had conducted a 3-days long session on Web Development and build a hands-on project which is based on LinkTree.</p>
+	Interacting with fellow MLSA's in the community and seeking for the sessions to conduct. In a collaboration with the Coding Society Community, I had conducted a 3-days long session on Web Development and build a hands-on project which is based on LinkTree.
+Conducted a session on Git and GitHub with a hands-on activity and engage folks to build a project to start contributing to open source, taught best practices about it, and Hacktoberfest kickoff within the HEKORS Community
+</p>
 	<p>● <a href="/">Hackathons Participant/Mentor</a> - I have participanted in many hackathons as a participant and mentor in <a href="https://mlh.io/">Major League Hacking</a> , <a href="https://hackthenorth.com/">HackTheNorth</a> , <a href="https://hackacode.anyonecanco.de/">AnyoneCo.de</a>. In team collaboration, we have participated in MLH's AbracadabraHacks and made a Hogwatrz Magical world website using Vanilla JS, HTML, CSS/SCSS. Participated in the MLH's Local Hack Day: Learn hackathon, completed challenges, learned new things, and joined the guilds. Mentored hackers at hackathon and collaborated with the organizers and volunteers.
 </p>	
 	<p>● <a href="http://thedesignsystems.com/">The DesignSystems (@DesignSystemsOSS)</a> - Working on a CSS library that results in solving frontend crisis called eccentrictouch using ReactJS, SCSS and Working on thedesignsystems community website and UI components from scratch.</p>
