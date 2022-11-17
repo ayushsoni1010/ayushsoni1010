@@ -21,7 +21,7 @@
 const ayushsoni1010 = {
   fulName: "Ayush Soni",
   pronouns: "He/His/Him",
-  tags: [ "Frontend❤️" , "Open-Source🚀" , "Hackathons⚡" , "Cloud Computing🌩️" , "Mentoring🙌" , "Communities🎯"],
+  tags: [ "Frontend❤️" , "Open-Source🚀" , "Hackathons⚡" , "Cloud🌩️" , "Backend💡" , "Mentoring🙌" , "Communities🎯"],
   communities: ["Microsoft Learn Student Ambassador👨‍🎓", "HEKORS Community💜"],
   askMeAbout: [ "Web Development", "Cloud Technology" , "Open Source" , "API's" ],
   reachMeOut: ["ayushsoni1010.work@gmail.com"],
@@ -60,6 +60,9 @@ const ayushsoni1010 = {
  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
  <img alt="Ant-Design" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
  <img alt="Chakra" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/>
+ <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+ <img alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white"/>
+	
 	
 </div>
 
@@ -76,6 +79,7 @@ const ayushsoni1010 = {
  <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
  <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+ <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>	
  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
  <img alt="AdobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
