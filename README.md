@@ -29,6 +29,16 @@ const ayushsoni1010 = {
 }
 ```
 
+<h2 align="left">Recent Blogs✍️</h2>
+<div align="left">
+  <a href="https://hashnode.com/@ayushsoni1010" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="https://dev.to/ayushsoni1010" target="_blank"><img alt="Dev Community" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+  <a href="https://medium.com/@ayushsoni1010" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)"/></a>
+  <a href="https://ayushsoni1010.com/blogs" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+  <a href="https://www.notion.so/ayushsoni1010/Ayush-Soni-9c6e41ece1994828b3a342318e687447" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://ayushsoni1010.blogspot.com/" target="_blank"><img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+</div>
+
 <h2 align="left">Experience⚡</h2>
 <p>● <a href="https://www.economize.cloud/">Economize.cloud (@economize.cloud)</a> - Worked on a dashboard application that is based on cloud technology and SaaS product. Implemented and fixed the frontend UI of the application, storybook setup of base wrapper components and build charts using chart.js and vue-chart.js in a wrapper component. Contributed to backend of the application, worked on the landing and blog website.</p>
 <p>● <a href="https://getsocialnow.co/">Script Fellowship</a> -  Worked on KaroVerify, CraftBrain, and HACK-OV8 projects which are based on the MERN stack. Got selected as a Fellow in Script Fellowship Program'21 at Script Foundation. I am the top first contributor in Script Fellowship. Helped other fellows to know more about open-source development.</p>
@@ -53,6 +63,7 @@ const ayushsoni1010 = {
  <img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
  <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>	
  <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+ <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
  <img alt="Chart.js" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"/>
