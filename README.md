@@ -1,7 +1,16 @@
 ![image](./github-banner.png)
 <h2 align="left">Hey, I'm Ayush Soni <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
-<p>👨‍🎓This is Ayush Soni, a junior-year computer science undergraduate, pursuing Bachelor of Technology from <a href="https://www.medicaps.ac.in/">Medi-Caps University</a>, Madhya Pradesh. I am always fascinated by programming and passionate about exploring the latest technology and developing new cool things.</p>
-<p>⚡I am a Full Stack Developer, an Open-Source Enthusiast, and a UX/UI Designer who loves to work with frontend and design things creatively and curiously. I have participated as a participant, and mentor in many open-source contribution programs and hackathons. I am always up for collaborating within the communities and contributing to open-source projects.</p>
+
+<p>👨‍🎓This is Ayush Soni, a junior-year computer science undergraduate, pursuing B.Tech from <a href="https://www.medicaps.ac.in/">Medi-Caps University</a>, Indore. I am always fascinated by programming and passionate about exploring the latest technology and developing new cool and innovative products. I am an enthusiastic and curious individual who works hard and is highly ambitious in improving my knowledge of real-world applications.
+</p>
+
+<p>⚡I am a Full Stack Developer, an avid Open-Source Enthusiast, and UX/UI Designer, I enjoy building SaaS products and microservices applications while also creating feasible design systems. My deep understanding of frontend and backend application structure and architecture allows me to build robust and scalable products using core principles.
+</p>
+
+<p>
+🎯In terms of technical skills, I work with Javascript and Typescript on a daily basis, both professionally and on personal projects. I have actively participated in various hackathons and open-source contribution programs as both a participant and mentor, and I have taken sessions in the community to help with community building, team leadership, and different methodologies in developing software.
+</p>
+
 
 <h2 align="left">Connect with me🤝</h2>
 <div align="left">
@@ -20,7 +29,7 @@
 ```JavaScript
 const ayushsoni1010 = {
   fulName: "Ayush Soni",
-  pronouns: "He/His/Him",
+  pronouns: "He/Him",
   tags: [ "Frontend❤️" , "Open-Source🚀" , "Hackathons⚡" , "Cloud🌩️" , "Backend💡" , "Mentoring🙌" , "Communities🎯"],
   communities: ["Microsoft Learn Student Ambassador👨‍🎓", "HEKORS Community💜"],
   askMeAbout: [ "Web Development", "Cloud Technology" , "Open Source" , "API's" ],
@@ -40,8 +49,12 @@ const ayushsoni1010 = {
 </div>
 
 <h2 align="left">Experience⚡</h2>
-<p>● <a href="https://www.economize.cloud/">Economize.cloud (@economize.cloud)</a> - Worked on a dashboard application that is based on cloud technology and SaaS product. Implemented and fixed the frontend UI of the application, storybook setup of base wrapper components and build charts using chart.js and vue-chart.js in a wrapper component. Contributed to backend of the application, worked on the landing and blog website.</p>
+<p>● <a href="https://magic.app/">Magic</a><i><b> (Product Engineer)</b></i> - Working on a dashboard application based on a SaaS product that helps communities with directories, libraries, spaces, events, and much more without leaving Slack.</p>
+
+<p>● <a href="https://www.economize.cloud/">Economize</a></a><i><b> (Software Engineer)</b></i> - Worked on a dashboard application based on a SaaS product that helps organizations optimize and manage cloud costs. Implemented and fixed the frontend UI of the application, storybook setup of base wrapper components and build charts using chart.js and vue-chart.js in a wrapper component. Contributed to backend of the application, worked on the landing and blog website.</p>
+
 <p>● <a href="https://getsocialnow.co/">Script Fellowship</a> -  Worked on KaroVerify, CraftBrain, and HACK-OV8 projects which are based on the MERN stack. Got selected as a Fellow in Script Fellowship Program'21 at Script Foundation. I am the top first contributor in Script Fellowship. Helped other fellows to know more about open-source development.</p>
+
 <p>● <a href="/">Open Source Contributor/Mentor</a> -  I have participated as a participant and mentor in many open-source contribution programs such as <a href="https://letsgrowmore.in/soc/">LGMSoC</a>, <a href="https://www.devincept.com/">DCP</a> , <a href="https://gwoc.girlscript.tech/">GWoC</a> , <a href="https://swoc.scriptindia.org/">SWoC</a> , <a href="https://gdsc-woc.tech/">WoC-2.0</a>. Contributed to open-source projects related to frontend and UI-UX and assisted in the development of documentation of projects. </p>
 
 
