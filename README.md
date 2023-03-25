@@ -43,6 +43,7 @@ const ayushsoni1010 = {
   <a href="https://hashnode.com/@ayushsoni1010" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
   <a href="https://dev.to/ayushsoni1010" target="_blank"><img alt="Dev Community" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
   <a href="https://medium.com/@ayushsoni1010" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)"/></a>
+  <a href="https://ayushsoni1010.substack.com/" target="_blank"><img alt="Substack" src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"/></a>	
   <a href="https://ayushsoni1010.com/blogs" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
   <a href="https://www.notion.so/ayushsoni1010/Ayush-Soni-9c6e41ece1994828b3a342318e687447" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="https://ayushsoni1010.blogspot.com/" target="_blank"><img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
