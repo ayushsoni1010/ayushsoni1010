@@ -1,7 +1,7 @@
 ![image](./github-banner.png)
 <h2 align="left">Hey, I'm Ayush Soni <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
 
-<p>👨‍🎓This is Ayush Soni, a junior-year computer science undergraduate, pursuing B.Tech from <a href="https://www.medicaps.ac.in/">Medi-Caps University</a>, Indore. I am always fascinated by programming and passionate about exploring the latest technology and developing new cool and innovative products. I am an enthusiastic and curious individual who works hard and is highly ambitious in improving my knowledge of real-world applications.
+<p>👨‍🎓This is Ayush Soni, a final-year computer science undergraduate, pursuing B.Tech from <a href="https://www.medicaps.ac.in/">Medi-Caps University</a>, Indore. I am always fascinated by programming and passionate about exploring the latest technology and developing new cool and innovative products. I am an enthusiastic and curious individual who works hard and is highly ambitious in improving my knowledge of real-world applications.
 </p>
 
 <p>⚡I am a Full Stack Developer, an avid Open-Source Enthusiast, and UX/UI Designer, I enjoy building SaaS products and microservices applications while also creating feasible design systems. My deep understanding of frontend and backend application structure and architecture allows me to build robust and scalable products using core principles.
