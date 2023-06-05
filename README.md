@@ -50,6 +50,8 @@ const ayushsoni1010 = {
 </div>
 
 <h2 align="left">Experience⚡</h2>
+<p>● <a href="https://fastn.com">FifthTry</a><i><b> (Developer Relations Engineer)</b></i> - Building  <code>ftd</code> programming language and <code>fastn</code> full-stack web framework using Rust to build fully flagid full-stack apps. Checkout <code>fastn</code> community on <a href="https://github.com/fastn-stack">GitHub</a></p>
+
 <p>● <a href="https://magic.app/">Magic</a><i><b> (Product Engineer)</b></i> - Working on a dashboard application based on a SaaS product that helps communities with directories, libraries, spaces, events, and much more without leaving Slack.</p>
 
 <p>● <a href="https://www.economize.cloud/">Economize</a></a><i><b> (Software Engineer)</b></i> - Worked on a dashboard application based on a SaaS product that helps organizations optimize and manage cloud costs. Implemented and fixed the frontend UI of the application, storybook setup of base wrapper components and build charts using chart.js and vue-chart.js in a wrapper component. Contributed to backend of the application, worked on the landing and blog website.</p>
