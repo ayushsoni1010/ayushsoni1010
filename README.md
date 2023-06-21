@@ -91,7 +91,7 @@ const ayushsoni1010 = {
   ●
   <a href="https://magic.app/">Magic</a>
   <i><b> (Product Engineer)</b></i> -
-  Worked on a dashboard application based on a SaaS product that seamlessly integrates with Slack. The application provides communities with features such as access member directories, manage events and spaces, receive announcements without distractions, and automate bulk messages in Slack without leaving the Slack.
+  Worked on a dashboard application based on a SaaS product that seamlessly integrates with Slack. The application provides communities with features such as access member directories, manage events and spaces, receive announcements without distractions, and automate bulk messages in Slack without leaving Slack.
 </p>
 <!-- -->
 
@@ -99,9 +99,7 @@ const ayushsoni1010 = {
 <p>
   ● <a href="https://www.economize.cloud/">Economize</a>
   <i><b> (Software Engineer)</b></i> - 
-  Worked on a dashboard application based on a SaaS product that helps organizations optimize and manage cloud costs. 
-  Enhanced frontend UI, configured Storybook for base wrapper components, and created interactive charts using Chart.js and Vue-Chart.js. 
-  Contributed to backend development and also worked on the landing and blog website.
+  Worked on a dashboard application based on a SaaS product to optimize and manage cloud costs. Improved frontend UI, set up Storybook for base components, and built interactive charts with Chart.js and Vue-Chart.js. Assisted in backend development and worked on the landing and blog sites.
 </p>
 <!-- -->
 
@@ -189,7 +187,7 @@ const ayushsoni1010 = {
 <!-- Volunteering Experience -->
 <h2>Volunteering and Community work📣</h2>
 <div>
-  <p>● <a href="https://studentambassadors.microsoft.com/#">Microsoft Learn Student Ambassador</a> / <a href="/https://gdsc.community.dev/medi-caps-university-indore/">GDSC Medi-Caps</a> - As an MLSA, I collaborated with fellow ambassadors and conducted a 3-day web development session with the Coding Society Community. I also led a Git and GitHub session, encouraging open source contributions, promoting best practices, and mentoring many people. Successfully organized a Hacktoberfest kickoff within the HEKORS Community.</p>
+  <p>● <a href="https://studentambassadors.microsoft.com/#">Microsoft Learn Student Ambassador</a> / <a href="/https://gdsc.community.dev/medi-caps-university-indore/">GDSC Medi-Caps</a> - As an MLSA, I teamed up with ambassadors and hosted a 3-day web dev session for the Coding Society Community. I led a Git and GitHub workshop, promoting open source and mentoring participants. Also organized a Hacktoberfest kickoff in the HEKORS Community.</p>
   
   <p>● <a href="/">Hackathons Participant/Mentor</a> - I have participated in various hackathons like <a href="https://mlh.io/">MLH</a>, <a href="https://hackthisfall.tech/">HackThisFall</a>, <a href="https://hackthenorth.com/">HackTheNorth</a>, <a href="https://wittyhacks.in/">Wittyhacks</a>, and <a href="https://hackacode.anyonecanco.de/">AnyoneCo.de</a>, where our team created a Hogwatrz Magical project at MLH's AbracadabraHacks. I won the HackThisFall hackathon for the best use of Twilio and also mentored other hackers while collaborating with organizers and volunteers.</p>
   
