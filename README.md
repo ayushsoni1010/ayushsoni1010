@@ -1,5 +1,6 @@
 <!-- Background Banner -->
-![image](./github-banner.png)
+![github-banner](https://ik.imagekit.io/ayushsoni1010/Website/github-banner_POJDoOZxu.png?updatedAt=1687334946673)
+
 
 <!-- Short Introduction -->
 <h2 align="left">Hey, I'm Ayush Soni <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
