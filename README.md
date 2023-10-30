@@ -43,7 +43,7 @@ const ayushsoni1010 = {
   fullName: "Ayush Soni",
   pronouns: "He/Him",
   tags: ["Frontend ❤️", "Open-Source 🚀", "Hackathons ⚡", "Cloud 🌩️", "Backend 💡", "Mentoring 🙌", "Communities 🎯"],
-  communities: ["Microsoft Learn Student Ambassador 👨‍🎓", "HEKORS Community 💜"],
+  communities: ["Microsoft Learn Student Ambassador 👨‍🎓", "Major League Hacking 🚀", "HEKORS Community 💜"],
   askMeAbout: ["Web Development", "Cloud Technology", "Open Source", "APIs", "UI Designing"],
   reachMeOut: ["ayushsoni1010.work@gmail.com"],
   toFindMeUsername: "@ayushsoni1010"
@@ -82,8 +82,7 @@ const ayushsoni1010 = {
 <!-- Experience Items -->
 <p>
   ● <a href="https://fastn.com">FifthTry</a><i><b> (Developer Relations Engineer)</b></i> -
-  Building the <code>ftd</code> programming language and the <code>fastn</code> full-stack web framework using Rust to create fully-fledged full-stack web applications and making deployment effortless on your server or the <code>fastn</code> cloud by <a href="https://fifthtry.com">FifthTry</a>.
-  Check out the <a href="https://github.com/fastn-community">fastn community</a> and the <a href="https://github.com/fastn-stack">fastn stack</a> on <a href="https://github.com/fifthtry">GitHub</a>.
+  Led documentation site development, conducted developer training, enhanced the fastn framework written in <b>Rust</b>. Spearheaded strategic enhancements, built numerous sample apps with fastn, and handled other engineering tasks. Curated nationwide events, managed marketing efforts, fostered community growth, and handled client relations</a>.
 </p>
 <!--  -->
 
@@ -149,6 +148,8 @@ const ayushsoni1010 = {
   <img alt="Chakra" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/>
   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 </div>
 
 <!-- Databases -->
@@ -156,6 +157,8 @@ const ayushsoni1010 = {
 <div>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </div>
 
 <!-- Tools and Technologies -->
@@ -166,6 +169,7 @@ const ayushsoni1010 = {
   <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>	
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img alt="AdobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
@@ -181,7 +185,10 @@ const ayushsoni1010 = {
   <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+  <img alt="Digital Ocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 </div>
 
 
