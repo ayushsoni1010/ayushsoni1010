@@ -14,17 +14,14 @@
 <!-- Socials Links -->
 <h2 align="left">Connect with me🤝</h2>
 <div align="left">
-  <a href="https://ayushsoni1010.com" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
-  </a>
   <a href="https://linkedin.com/in/ayushsoni1010/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x/ayushsoni1010" target="_blank">
     <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@ayushsoni1010" target="_blank">
-    <img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  <a href="https://ayushsoni1010.com" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
   <a href="https://linktr.ee/ayushsoni1010" target="_blank">
     <img alt="Linktree" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>
@@ -34,6 +31,9 @@
   </a> -->
   <a href="mailto:ayushsoni1010.work@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@ayushsoni1010" target="_blank">
+    <img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
 </div>
 
@@ -83,14 +83,27 @@ const ayushsoni1010 = {
 <h2 align="left">Experience⚡</h2>
 <!-- Experience Items -->
 <p>
-  ● <a href="https://fastn.com">FifthTry</a><i><b> (Developer Relations Engineer)</b></i> -
-  Led documentation site development, conducted developer training, enhanced the fastn framework written in <b>Rust</b>. Spearheaded strategic enhancements, built numerous sample apps with fastn, and handled other engineering tasks. Curated nationwide events, managed marketing efforts, fostered community growth, and handled client relations</a>.
+  ✦ <a href="https://attentions.ai/">Attentions AI</a>
+  <i><b> (Software Development Engineer)</b></i> —
+  Working on AI-driven products for enterprise use cases, building production-grade micro-frontends and real-time systems for document Q&A, call centers, and e-commerce workflows. Focused on performance, streaming architectures, and scalable chat-based interfaces.
 </p>
-<!--  -->
 
 <!-- Experience Items -->
 <p>
-  ●
+  ✦ <a href="https://go2work.com/">Go2Work</a>
+  <i><b> (Frontend Engineer)</b></i> —
+  Built and scaled the core hiring platform using TypeScript and Next.js, owning frontend architecture, reusable UI systems, and real-time features. Emphasis on performance optimization, reliability, and clean developer experience.
+</p>
+
+<!-- Experience Items -->
+<p>
+  ✦ <a href="https://fastn.com">FifthTry</a><i><b> (Developer Relations Engineer)</b></i> -
+  Led documentation site development, conducted developer training, enhanced the fastn framework written in <b>Rust</b>. Spearheaded strategic enhancements, built numerous sample apps with fastn, and handled other engineering tasks. Curated nationwide events, managed marketing efforts, fostered community growth, and handled client relations</a>.
+</p>
+
+<!-- Experience Items -->
+<p>
+  ✦
   <a href="https://magic.app/">Magic</a>
   <i><b> (Product Engineer)</b></i> -
   Worked on a dashboard application based on a SaaS product that seamlessly integrates with Slack. The application provides communities with features such as access member directories, manage events and spaces, receive announcements without distractions, and automate bulk messages in Slack without leaving Slack.
@@ -99,7 +112,7 @@ const ayushsoni1010 = {
 
 <!-- Experience Items -->
 <p>
-  ● <a href="https://www.economize.cloud/">Economize</a>
+  ✦ <a href="https://www.economize.cloud/">Economize</a>
   <i><b> (Software Engineer)</b></i> - 
   Worked on a dashboard application based on a SaaS product to optimize and manage cloud costs. Improved frontend UI, set up Storybook for base components, and built interactive charts with Chart.js and Vue-Chart.js. Assisted in backend development and worked on the landing and blog sites.
 </p>
@@ -107,20 +120,21 @@ const ayushsoni1010 = {
 
 <!-- Experience Items -->
 <p>
-  ● <a href="https://getsocialnow.co/">Script Fellowship</a> - Worked on KaroVerify, CraftBrain, and HACK-OV8 projects which are based on the MERN stack. Selected as a Fellow in the Script Fellowship Program'21 at Script Foundation. I am the top first contributor in the Script Fellowship and helped other fellows in open-source development.
+  ✦ <a href="https://getsocialnow.co/">Script Fellowship</a> - Worked on KaroVerify, CraftBrain, and HACK-OV8 projects which are based on the MERN stack. Selected as a Fellow in the Script Fellowship Program'21 at Script Foundation. I am the top first contributor in the Script Fellowship and helped other fellows in open-source development.
 </p>
 <!--  -->
 
 <!-- Experience Items -->
 <p>
-  ● <a href="/">Open Source Contributor/Mentor</a> - I have participated as a participant and mentor in various open-source contribution programs such as <a href="https://letsgrowmore.in/soc/">LGMSoC</a>, <a href="https://www.devincept.com/">DCP</a>, <a href="https://gwoc.girlscript.tech/">GWoC</a>, <a href="https://swoc.scriptindia.org/">SWoC</a>, and <a href="https://gdsc-woc.tech/">WoC-2.0</a>. I have contributed to open-source projects in the frontend and backend domains and assisted in project documentation development.
+  ✦ <a href="/">Open Source Contributor/Mentor</a> - I have participated as a participant and mentor in various open-source contribution programs such as <a href="https://letsgrowmore.in/soc/">LGMSoC</a>, <a href="https://www.devincept.com/">DCP</a>, <a href="https://gwoc.girlscript.tech/">GWoC</a>, <a href="https://swoc.scriptindia.org/">SWoC</a>, and <a href="https://gdsc-woc.tech/">WoC-2.0</a>. I have contributed to open-source projects in the frontend and backend domains and assisted in project documentation development.
 </p>
 
 
-<!-- Skills Section -->
+<!-- Skills Section 
 <h2 align="left">Skills🚀</h2>
+-->
 
-<!-- Languages -->
+<!-- Languages 
 #### 🔥Languages:
 <div>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -130,8 +144,9 @@ const ayushsoni1010 = {
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />	
 </div>
+-->
 
-<!-- Libraries and Frameworks -->
+<!-- Libraries and Frameworks 
 #### ⛓️Libraries and Frameworks:
 <div>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -153,8 +168,9 @@ const ayushsoni1010 = {
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 </div>
+-->
 
-<!-- Databases -->
+<!-- Databases 
 #### 🧵Databases:
 <div>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -162,8 +178,9 @@ const ayushsoni1010 = {
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </div>
+-->
 
-<!-- Tools and Technologies -->
+<!-- Tools and Technologies 
 #### ⚡️Tools and Technologies:
 <div>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -178,8 +195,9 @@ const ayushsoni1010 = {
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>	
 </div>
+-->
 
-<!-- Hosting/SaaS -->
+<!-- Hosting/SaaS 
 #### ☁️ Hosting/SaaS:
 <div>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -192,16 +210,16 @@ const ayushsoni1010 = {
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   <img alt="Digital Ocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 </div>
-
+-->
 
 <!-- Volunteering Experience -->
 <h2>Volunteering and Community work📣</h2>
 <div>
-  <p>● <a href="https://studentambassadors.microsoft.com/#">Microsoft Learn Student Ambassador</a> / <a href="/https://gdsc.community.dev/medi-caps-university-indore/">GDSC Medi-Caps</a> - As an MLSA, I teamed up with ambassadors and hosted a 3-day web dev session for the Coding Society Community. I led a Git and GitHub workshop, promoting open source and mentoring participants. Also organized a Hacktoberfest kickoff in the HEKORS Community.</p>
+  <p>✦ <a href="https://studentambassadors.microsoft.com/#">Microsoft Learn Student Ambassador</a> / <a href="/https://gdsc.community.dev/medi-caps-university-indore/">GDSC Medi-Caps</a> - As an MLSA, I teamed up with ambassadors and hosted a 3-day web dev session for the Coding Society Community. I led a Git and GitHub workshop, promoting open source and mentoring participants. Also organized a Hacktoberfest kickoff in the HEKORS Community.</p>
   
-  <p>● <a href="/">Hackathons Participant/Mentor</a> - I have participated in various hackathons like <a href="https://mlh.io/">MLH</a>, <a href="https://hackthisfall.tech/">HackThisFall</a>, <a href="https://hackthenorth.com/">HackTheNorth</a>, <a href="https://wittyhacks.in/">Wittyhacks</a>, and <a href="https://hackacode.anyonecanco.de/">AnyoneCo.de</a>, where our team created a Hogwatrz Magical project at MLH's AbracadabraHacks. I won the HackThisFall hackathon for the best use of Twilio and also mentored other hackers while collaborating with organizers and volunteers.</p>
+  <p>✦ <a href="/">Hackathons Participant/Mentor</a> - I have participated in various hackathons like <a href="https://mlh.io/">MLH</a>, <a href="https://hackthisfall.tech/">HackThisFall</a>, <a href="https://hackthenorth.com/">HackTheNorth</a>, <a href="https://wittyhacks.in/">Wittyhacks</a>, and <a href="https://hackacode.anyonecanco.de/">AnyoneCo.de</a>, where our team created a Hogwatrz Magical project at MLH's AbracadabraHacks. I won the HackThisFall hackathon for the best use of Twilio and also mentored other hackers while collaborating with organizers and volunteers.</p>
   
-  <p>● <a href="http://thedesignsystems.com/">The DesignSystems (@DesignSystemsOSS)</a> - I actively collaborated in a team to create the <code>eccentrictouch</code> CSS library using ReactJS and SCSS, with a focus on addressing frontend challenges. Additionally, I made significant contributions to thedesignsystems community website by developing UI components from scratch.</p>
+  <p>✦ <a href="http://thedesignsystems.com/">The DesignSystems (@DesignSystemsOSS)</a> - I actively collaborated in a team to create the <code>eccentrictouch</code> CSS library using ReactJS and SCSS, with a focus on addressing frontend challenges. Additionally, I made significant contributions to thedesignsystems community website by developing UI components from scratch.</p>
 </div>
 
 
