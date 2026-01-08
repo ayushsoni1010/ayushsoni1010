@@ -5,21 +5,23 @@
 <!-- Short Introduction -->
 <h2 align="left">Hey, I'm Ayush Soni <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
 
-<p>👨🏻‍💻This is Ayush Soni, a passionate full-stack developer and devrel engineer with a love for open-source and UI designing. I specialize in building robust and scalable SaaS products, microservices, and design systems. With a strong grasp of frontend and backend architecture, I create intuitive designs for engaging user experiences.</p>
+<p>I’m Ayush Soni, a full-stack engineer (frontend-heavy). I enjoy building and scaling SaaS products, microservices, design systems, and enterprise-level B2B applications — especially in early-stage, high-ownership environments where things move fast from idea → production. I’ve shipped multiple products from 0 → 1, owning everything from system design and core architecture to shipping, iteration, and production reliability.</p>
 
-<p>🚀I have extensive experience in Javascript and Typescript, using them professionally and for personal projects. I'm involved in hackathons, open-source contributions, and community building as both a participant and mentor. Additionally, I also lead community initiatives, offer software development sessions, and provide team leadership.</p>
+<p>My work sits at the intersection of frontend architecture, backend systems, and AI-driven workflows. I care deeply about performance, maintainability, and developer experience, and I enjoy turning complex technical systems into products that feel simple, fast, and intuitive.</p>
+
+<p>Over the years, I’ve worked extensively with TypeScript and Python across YC-backed, Sequoia-backed, and bootstrapped startups, contributing to product engineering, real-time systems, and AI-powered features. Beyond product work, I’ve contributed to open-source and developer communities — building tools, mentoring engineers, and delivering technical talks and hands-on sessions, which has shaped how I collaborate, communicate, and ship software.</p>
 
 <!-- Socials Links -->
 <h2 align="left">Connect with me🤝</h2>
 <div align="left">
+  <a href="https://ayushsoni1010.com" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+  </a>
   <a href="https://linkedin.com/in/ayushsoni1010/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/ayushsoni1010" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://ayushsoni1010.com" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+  <a href="https://x/ayushsoni1010" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
   <a href="https://youtube.com/@ayushsoni1010" target="_blank">
     <img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
@@ -27,9 +29,9 @@
   <a href="https://linktr.ee/ayushsoni1010" target="_blank">
     <img alt="Linktree" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/aayushsoni1010" target="_blank">
+  <!-- <a href="https://instagram.com/aayushsoni1010" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="mailto:ayushsoni1010.work@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
